@@ -1,0 +1,11 @@
+{
+  "name": "node_intro_assignment",
+  "version": "1.0.0",
+  "description": "exercise practicing node, npm, and file api. ",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josh",
+  "license": "ISC"
+}
